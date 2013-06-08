@@ -1,8 +1,9 @@
 ---
 layout: post
-tags : [douban,]
+tags : [douban]
 ---
 {% include JB/setup %}
 hello github
 
 hi~
+
