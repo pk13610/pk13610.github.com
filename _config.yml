@@ -9,14 +9,14 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-# title : pk13610
-# tagline: pk13610
-# author :
-#   name : pk13610
-#   email : pk13610@gmail.com
-#   github : pk13610
-#   twitter : pk13610
-#   feedburner : ???
+title : pk13610
+tagline: pk13610
+author :
+  name : pk13610
+  email : pk13610@gmail.com
+  github : pk13610
+  twitter : pk13610
+  feedburner : ???
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
