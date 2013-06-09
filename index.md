@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Day buy day 
-tagline: :)
+title: vavava 
+tagline: Day buy day  :{}
 ---
 {% include JB/setup %}
 
