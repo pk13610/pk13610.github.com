@@ -9,7 +9,7 @@ Github API v3设计
 
 转自[Hooopo的日记](www.douban.com/note/249043281/)
 
-```
+
 Github API v3设计
 2012-11-25 02:25:24
 
@@ -60,4 +60,4 @@ Saito @SaitoWu
 @Hooopo 还好有 Github 这样的, 给开发者也做了表率. 没法强求别人, 先做好自己吧.
 
 http://developer.github.com/v3/
-```
+
